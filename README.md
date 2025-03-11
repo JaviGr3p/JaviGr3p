@@ -78,45 +78,22 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iscpatricio92&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="iscpatricio92" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javigr3p&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="javigr3p" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iscpatricio92&show_icons=true&locale=en&theme=chartreuse-dark" alt="iscpatricio92" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=javigr3p&show_icons=true&locale=en&theme=chartreuse-dark" alt="javigr3p" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
-
-![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iscpatricio92&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
-
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=iscpatricio92&layout=compact&theme=algolia" alt="iscpatricio92" />
- </a>
-</p>
-
-
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
-</p>
-
 
 <br>
 
 ## 😎 Connect with me
 <p align="left">
   
-<a href="https://linkedin.com/in/patricio-gomez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9591889/patricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iscpatricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="mailTo:isc.patricio@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
-<a href="https://github.com/iscpatricio92" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/javierred/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
+<a href="https://www.youtube.com/#" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
+<a href="mailTo:isc.j4gr3p@tuta.io" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
+<a href="https://github.com/javigr3p" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
 
