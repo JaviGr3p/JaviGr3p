@@ -79,14 +79,12 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
 <br>
-<br>
+<br><br><br><br><br>
 <p>
-<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p" width="300"/>
+<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p" width="250"/>
+<img aling="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" width="250"/>
 </p>
-<p>
-<img aling="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" width="300"/>
-</p>
-<br>
+<br><br><br><br>
 <br>
 <p>
 <img aling="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javigr3p&theme=radical" alt="javigr3p GitHub Achievements" />
