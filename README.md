@@ -78,13 +78,16 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
-<br />
+<br>
+<br>
 <p>
 <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p"/>
 </p>
 <p>
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=javigr3p.javigr3p" alt="Visitor Count" />
+<img src="https://github-profile-trophy.vercel.app/?username=javigr3p&theme=radical&no-frame=true&margin-w=4" alt="javigr3p GitHub Trophies" />
 </p>
+<br>
+<br>
 <p>
 <img aling="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javigr3p&theme=radical" alt="javigr3p GitHub Achievements" />
 </p>
