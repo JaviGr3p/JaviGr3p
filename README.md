@@ -82,7 +82,6 @@
 <br><br><br><br><br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p"/>
-<br>
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats"/>
 </p>
 <br><br><br><br>
