@@ -83,7 +83,10 @@
 <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p"/>
 </p>
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javigr3p&theme=radical" alt="javigr3p GitHub Achievements" />
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=javigr3p.javigr3p" alt="Visitor Count" />
+</p>
+<p>
+<img aling="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javigr3p&theme=radical" alt="javigr3p GitHub Achievements" />
 </p>
 
 <br><br><br><br><br><br><br><br>
