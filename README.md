@@ -80,7 +80,7 @@
 </p>
  
 <p>
-<img align="left" sec="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGr3p&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="JaviGr3p" width="410"/>
+<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" />
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=javigr3p&show_icons=true&locale=en&theme=chartreuse-dark" alt="JaviGr3p" width="410"/>
 </p>
