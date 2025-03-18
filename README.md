@@ -81,13 +81,13 @@
 <br>
 <br><br><br><br><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p"/>
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=github_dark" alt="J4Gr3p Languages" alt="JaviGr3p"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/javigr3p?cardType=level&theme=github_dark&preferLogin=false" alt="My Awesome Stats"/>
 </p>
 <br><br><br><br>
 <br>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javigr3p&theme=radical" alt="javigr3p GitHub Achievements" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javigr3p&theme=github_dark" alt="javigr3p GitHub Achievements" />
 </p>
 
 <br><br><br><br><br><br><br><br>
