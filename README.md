@@ -81,8 +81,8 @@
 <br>
 <br><br><br><br><br>
 <p>
-<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p" width="250"/>
-<img aling="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" width="250"/>
+<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p"/>
+<img aling="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats"/>
 </p>
 <br><br><br><br>
 <br>
