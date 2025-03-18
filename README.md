@@ -84,7 +84,7 @@
 <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=radical" alt="J4Gr3p Languages" alt="JaviGr3p"/>
 </p>
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=javigr3p&theme=radical&no-frame=true&margin-w=4" alt="javigr3p GitHub Trophies" />
+<img aling="right" src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
 </p>
 <br>
 <br>
