@@ -82,7 +82,7 @@
 <br><br><br><br><br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigr3p&langs_count=20&theme=github_dark" alt="J4Gr3p Languages" alt="JaviGr3p"/>
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/javigr3p?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/javigr3p?cardType=level&theme=transparent&preferLogin=false" alt="My Stats"/>
 </p>
 <br><br><br><br>
 <br>
